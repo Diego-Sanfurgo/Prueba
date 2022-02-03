@@ -1,2 +1,2 @@
 # Prueba
-Prueba para curso de GIT
+Prueba de pruebas
